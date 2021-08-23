@@ -11,6 +11,8 @@ More scripts here: [Svidro](https://gist.github.com/Svidro) and [Pete Bankhead](
 - stardist: (From Pete Bankhead) Use Stardist for fluorescence cell detection
 - stardist_he: (From Pete Bankhead) Use of stardist for H&E cell detection
 - stitching_OPAL: Stitching script after Inform processing
+- export results: export all measurements as .txt,.csv,.tsv file
+- saveMeasurementsMap: saves measurements Map as image
 
 
 # Author
