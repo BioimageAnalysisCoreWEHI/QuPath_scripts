@@ -13,6 +13,8 @@ More scripts here: [Svidro](https://gist.github.com/Svidro) and [Pete Bankhead](
 - stitching_OPAL: Stitching script after Inform processing
 - export results: export all measurements as .txt,.csv,.tsv file
 - saveMeasurementsMap: saves measurements Map as image
+- AddIntensityMeasurements: add cell measurements after detection (mean, std, median, var)
+- annotateCellsManual: Force cells to be a defined phenotype (useful for training)
 
 
 # Author
