@@ -16,6 +16,9 @@ More scripts here: [Svidro](https://gist.github.com/Svidro) and [Pete Bankhead](
 - AddIntensityMeasurements: add cell measurements after detection (mean, std, median, var)
 - annotateCellsManual: Force cells to be a defined phenotype (useful for training)
 
+# License
+
+These scripts are intended for research use only. It has been made freely available under the terms of the GPLv3 in the hope it is useful for this purpose, and to make analysis methods open and transparent.
 
 # Author
 Nina Tubau Ribera
