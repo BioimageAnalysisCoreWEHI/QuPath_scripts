@@ -68,7 +68,7 @@ if (fileOutput == null)
 
 // Parse image regions & create a sparse server
 print 'Parsing regions from ' + files.size() + ' files...'
-int[] temp = new int[200];
+int[] temp = new int[500];
 int cpt;
 int i = 0;
 def builder = new SparseImageServer.Builder()
