@@ -15,6 +15,9 @@ More scripts here: [Svidro](https://gist.github.com/Svidro) and [Pete Bankhead](
 - saveMeasurementsMap: saves measurements Map as image
 - AddIntensityMeasurements: add cell measurements after detection (mean, std, median, var)
 - annotateCellsManual: Force cells to be a defined phenotype (useful for training)
+- NearestNeighbours: computes nearest neighbourhood analysis
+- DBSCAN: computes DBSCAN clustering
+- Stardist_0.3.0: Updated Stardist script for QuPath 0.3.0
 
 # License
 
