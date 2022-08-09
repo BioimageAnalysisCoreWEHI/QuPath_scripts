@@ -43,3 +43,5 @@ subtract_mat = GroovyCV.minus(cy3_mat, cy5_mat)
 subtract_buff_img = OpenCVTools.matToBufferedImage(subtract_mat)
 def fileImage = new File(pathOutput, name + '.' + imageExportType.toLowerCase())
 ImageIO.write(subtract_buff_img, imageExportType, fileImage)
+
+//use concatenate_channel_image.groovy script to add this channel to the original image
